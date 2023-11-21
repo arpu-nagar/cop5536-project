@@ -11,6 +11,7 @@ using namespace std;
 class MinHeap {
    private:
     vector<int> heap;
+    // timestamp based priority (fifs)
     map<int, vector<int> > mp;
     // Helper function to maintain the heap property
     void heapifyUp(int index) {

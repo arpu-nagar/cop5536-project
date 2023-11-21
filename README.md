@@ -1,6 +1,6 @@
 # Advanced Data Structures Project
 
-- How to run:
+### How to run the project - 
 
 ``` (bash)
 make
